@@ -1,5 +1,8 @@
 MOvieZ App
 
+How to access:
+please find source code in master branch and checkout.
+
 What is in the app:
 1. Fetching movie list and showing in home screen 
 2. showing movies details in details screen.
